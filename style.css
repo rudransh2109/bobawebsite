@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: yellowgreen;
+	margin: 0;
+	padding: 20px;
+}
+h1,
+h2 {
+	color: #333;
+}
+/* note - can be used to theme and colorize everything that is having class="section"  */
+.section {
+	background-color: white;
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+
+img {
+	max-width: 200px;
+	border: 3px solid #333;
+}
