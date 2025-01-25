@@ -1,12 +1,12 @@
 body {
 	font-family: Arial, sans-serif;
-	background-color: yellowgreen;
+	background-color: blue;
 	margin: 0;
 	padding: 20px;
 }
 h1,
 h2 {
-	color: #333;
+	color: green;
 }
 /* note - can be used to theme and colorize everything that is having class="section"  */
 .section {
